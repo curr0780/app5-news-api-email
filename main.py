@@ -1,6 +1,6 @@
 import requests
 
-api_key = "8e19eef1243f4f0fbd5367901ce0eb37"
+api_key = "" # get from email
 url = "https://newsapi.org/v2/everything?q=tesla&from=" \
     "2025-05-03&sortBy=publishedAt&apiKey=" \
     "8e19eef1243f4f0fbd5367901ce0eb37"
