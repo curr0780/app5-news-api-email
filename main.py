@@ -10,3 +10,6 @@ content = request.json()
 for article in content["articles"]:
     print(article["title"])
     print(article["description"])
+
+# Exercise/challenge: send these titles and articles to my email address
+# use code from the portfolio app
