@@ -23,7 +23,7 @@ api_key = "" #removed for push to git
 url = ("https://newsapi.org/v2/everything?"
        f"q={topic}&"
        "from=2025-05-06&"
-       "sortBy=publishedAt&apiKey=8e19eef1243f4f0fbd5367901ce0eb37")
+       "sortBy=publishedAt&apiKey=") # add key here as well
 
 request = requests.get(url)
 content = request.json()
