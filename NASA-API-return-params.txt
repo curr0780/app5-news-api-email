@@ -1,0 +1,13 @@
+date
+explanation
+hdurl
+media_type
+service_version
+title
+url
+__len__
+
+## This program is pulling it all together
+## Write a program that calls the NASA API to get our
+## astronomy picture of the day and publish it on a website.
+## I won't publish it
